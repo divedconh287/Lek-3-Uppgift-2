@@ -1,0 +1,27 @@
+/* kopierad från föregående uppgift */
+body{
+    background-image: url("img/moorish-pattern_644416-582.jpg");
+    
+}
+
+h1{
+    color:#3f80eb;
+    background-color:#dff5f5;
+    text-align:right;
+}
+
+ul{
+    background-color:#191970;
+}
+
+a{
+    color:#FFD700;
+}
+a:hover{
+    color:indigo;
+    background-color:aqua;
+}
+a:active{
+    color:greenyellow;
+    background-color:tomato;
+}
